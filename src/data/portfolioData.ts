@@ -238,7 +238,7 @@ export const certifications: Certification[] = [
 ];
 
 export const contactInfo: ContactInfo = {
-  email: "shrutikeshri2005@gmail.com",
+  email: "shrutikeshri200423.uk@gmail.com",
   linkedin: "https://www.linkedin.com/in/shrutikeshri/",
-  github: "https://github.com/shrutikeshri"
+  github: "https://github.com/shrutikeshri2021"
 };
