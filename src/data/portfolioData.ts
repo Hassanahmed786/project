@@ -176,6 +176,11 @@ export const achievements: Achievement[] = [
 
 export const certifications: Certification[] = [
   {
+    title: "Meta Full-Stack Developer",
+    issuer: "Meta",
+    url: "https://coursera.org/share/9723f46458adbe96e028802b1d6ae86c"
+  },
+  {
     title: "Certificate of Participation in Software Engineer Internship",
     issuer: "Unstop",
     url: "https://unstop.com/certificate-preview/8fdfce94-152d-4044-832f-7e74cb637bab"

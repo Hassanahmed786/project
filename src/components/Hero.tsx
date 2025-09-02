@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-6 max-w-4xl mx-auto leading-relaxed">
-            Aspiring Full-Stack Developer | Amazon ML School '25 | 2× Hackathon Winner
+            Aspiring Full-Stack Developer | Amazon ML School '25 | 2× Hackathon Winner | Microsoft Student Ambassador
           </p>
           
           <p className="text-lg text-gray-500 dark:text-gray-400 mb-12 max-w-2xl mx-auto">
