@@ -178,152 +178,62 @@ export const certifications: Certification[] = [
   {
     title: "Certificate of Participation in Software Engineer Internship",
     issuer: "Unstop",
-    url: "https://unstop.com"
+    url: "https://unstop.com/certificate-preview/8fdfce94-152d-4044-832f-7e74cb637bab"
   },
   {
     title: "Detecting COVID-19 with Chest X-Ray using PyTorch",
     issuer: "Coursera Project Network",
-    url: "https://coursera.org"
+    url: "https://coursera.org/verify/1J2GO35O3HOU"
   },
   {
-    title: "Python Programming Fundamentals",
-    issuer: "Microsoft Learn",
-    url: "https://learn.microsoft.com"
+    title: "GitHub Copilot – Ask, Edit, Agent & Prompt Engineering",
+    issuer: "GitHub Global AI Community",
+    url: "https://www.credly.com/badges/bfb26d71-3dd0-4986-bc85-ea0d8495fc7c"
   },
   {
-    title: "Introduction to Machine Learning",
-    issuer: "Infosys Springboard",
-    url: "https://infyspringboard.onwingspan.com"
+    title: "AgentX 2025",
+    issuer: "Global AI Community",
+    url: "https://www.credly.com/badges/e0bb9294-33f8-42a2-b60f-cb04acd0a9e5"
   },
   {
-    title: "Web Development Fundamentals",
-    issuer: "freeCodeCamp",
-    url: "https://freecodecamp.org"
-  },
-  {
-    title: "Data Structures and Algorithms",
-    issuer: "GeeksforGeeks",
-    url: "https://geeksforgeeks.org"
-  },
-  {
-    title: "JavaScript ES6+ Fundamentals",
-    issuer: "Codecademy",
-    url: "https://codecademy.com"
-  },
-  {
-    title: "React Development Bootcamp",
-    issuer: "Udemy",
-    url: "https://udemy.com"
-  },
-  {
-    title: "SQL Database Management",
-    issuer: "W3Schools",
-    url: "https://w3schools.com"
-  },
-  {
-    title: "Git Version Control",
-    issuer: "GitHub Learning Lab",
-    url: "https://github.com"
-  },
-  {
-    title: "Responsive Web Design",
-    issuer: "freeCodeCamp",
-    url: "https://freecodecamp.org"
-  },
-  {
-    title: "Python for Data Science",
-    issuer: "IBM Cognitive Class",
-    url: "https://cognitiveclass.ai"
-  },
-  {
-    title: "Machine Learning Basics",
+    title: "Create a High-Fidelity Prototype with Figma",
     issuer: "Coursera",
-    url: "https://coursera.org"
+    url: "https://coursera.org/verify/O77P870037L1"
   },
   {
-    title: "Agile Project Management",
-    issuer: "Scrum Alliance",
-    url: "https://scrumalliance.org"
+    title: "Introduction to Artificial Intelligence (AI)",
+    issuer: "IBM",
+    url: "https://coursera.org/verify/4276YCOL775R"
   },
   {
-    title: "Cloud Computing Fundamentals",
-    issuer: "AWS Educate",
-    url: "https://aws.amazon.com/education"
+    title: "AI For Everyone",
+    issuer: "DeepLearning.AI",
+    url: "https://coursera.org/verify/JFAMNBP4OTG9"
   },
   {
-    title: "UI/UX Design Principles",
-    issuer: "Adobe Creative Cloud",
-    url: "https://adobe.com"
+    title: "AWS APAC - Solutions Architecture Job Simulation",
+    issuer: "Forage",
+    url: "https://www.theforage.com/simulations/aws/solutions-architecture-apac"
   },
   {
-    title: "Cybersecurity Awareness",
-    issuer: "SANS Institute",
-    url: "https://sans.org"
+    title: "Accenture UK - Developer & Technology Job Simulation",
+    issuer: "Forage",
+    url: "https://www.theforage.com/simulations/accenture/technology-uk"
   },
   {
-    title: "Digital Marketing Fundamentals",
-    issuer: "Google Digital Garage",
-    url: "https://learndigital.withgoogle.com"
+    title: "Oracle Certified Foundations Associate",
+    issuer: "Oracle",
+    url: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=3FC2BCF7B9F28E3E1D8C2A7DF624"
   },
   {
-    title: "Blockchain Technology Basics",
-    issuer: "IBM Blockchain",
-    url: "https://ibm.com/blockchain"
+    title: "PCAP: Programming Essentials in Python",
+    issuer: "Cisco Networking Academy",
+    url: "https://www.credly.com/badges/1c482a3f-71e0-4e87-89ce-ec6a5f51d3aa"
   },
   {
-    title: "API Development with Flask",
-    issuer: "Real Python",
-    url: "https://realpython.com"
-  },
-  {
-    title: "Data Visualization with Python",
-    issuer: "DataCamp",
-    url: "https://datacamp.com"
-  },
-  {
-    title: "Software Testing Fundamentals",
-    issuer: "ISTQB",
-    url: "https://istqb.org"
-  },
-  {
-    title: "DevOps Essentials",
-    issuer: "Docker",
-    url: "https://docker.com"
-  },
-  {
-    title: "Mobile App Development",
-    issuer: "Flutter",
-    url: "https://flutter.dev"
-  },
-  {
-    title: "Database Design and Management",
-    issuer: "MongoDB University",
-    url: "https://university.mongodb.com"
-  },
-  {
-    title: "Artificial Intelligence Ethics",
-    issuer: "MIT OpenCourseWare",
-    url: "https://ocw.mit.edu"
-  },
-  {
-    title: "Leadership in Technology",
-    issuer: "LinkedIn Learning",
-    url: "https://linkedin.com/learning"
-  },
-  {
-    title: "Open Source Contribution",
-    issuer: "GitHub",
-    url: "https://github.com"
-  },
-  {
-    title: "Technical Writing",
-    issuer: "Google Technical Writing",
-    url: "https://developers.google.com/tech-writing"
-  },
-  {
-    title: "Community Building and Management",
-    issuer: "Community Management Institute",
-    url: "https://communitymanagementinstitute.com"
+    title: "SQL (Basic) Certificate",
+    issuer: "HackerRank",
+    url: "https://www.hackerrank.com/certificates/f05d3583ef2d"
   }
 ];
 
