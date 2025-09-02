@@ -81,9 +81,20 @@ const Achievements: React.FC = () => {
               <div key={index} className="bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 rounded-lg p-4 hover:shadow-md transition-all duration-300">
                 <div className="flex items-center space-x-3 mb-2">
                   <Award className="w-5 h-5 text-blue-600 dark:text-blue-400" />
-                  <h4 className="font-medium text-gray-900 dark:text-white text-sm">
-                    {cert.title}
-                  </h4>
+                  {cert.url ? (
+                    <a
+                      href={cert.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="font-medium text-gray-900 dark:text-white text-sm hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200"
+                    >
+                      {cert.title}
+                    </a>
+                  ) : (
+                    <h4 className="font-medium text-gray-900 dark:text-white text-sm">
+                      {cert.title}
+                    </h4>
+                  )}
                 </div>
                 <p className="text-sm text-gray-600 dark:text-gray-300">
                   {cert.issuer}

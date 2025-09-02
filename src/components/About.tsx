@@ -29,11 +29,11 @@ const About: React.FC = () => {
               <div className="text-sm text-gray-600 dark:text-gray-400">CGPA</div>
             </div>
             <div className="bg-gradient-to-br from-purple-50 to-purple-100 dark:from-purple-900/20 dark:to-purple-800/20 p-6 rounded-xl">
-              <div className="text-3xl font-bold text-purple-600 dark:text-purple-400 mb-2">30+</div>
+              <div className="text-3xl font-bold text-purple-600 dark:text-purple-400 mb-2">25+</div>
               <div className="text-sm text-gray-600 dark:text-gray-400">Certifications</div>
             </div>
             <div className="bg-gradient-to-br from-green-50 to-green-100 dark:from-green-900/20 dark:to-green-800/20 p-6 rounded-xl">
-              <div className="text-3xl font-bold text-green-600 dark:text-green-400 mb-2">5+</div>
+              <div className="text-3xl font-bold text-green-600 dark:text-green-400 mb-2">8+</div>
               <div className="text-sm text-gray-600 dark:text-gray-400">Ambassadorships</div>
             </div>
             <div className="bg-gradient-to-br from-orange-50 to-orange-100 dark:from-orange-900/20 dark:to-orange-800/20 p-6 rounded-xl">

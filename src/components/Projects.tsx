@@ -48,6 +48,8 @@ const Projects: React.FC = () => {
                   {project.github && (
                     <a
                       href={project.github}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="inline-flex items-center text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200"
                     >
                       <Github className="w-4 h-4 mr-2" />
@@ -57,6 +59,8 @@ const Projects: React.FC = () => {
                   {project.demo && (
                     <a
                       href={project.demo}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="inline-flex items-center text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors duration-200"
                     >
                       <ExternalLink className="w-4 h-4 mr-2" />
